@@ -7,7 +7,7 @@
     conda activate ADL
 
 ### Data Prepatation
-under main directory (r13922191/)
+under main directory (hw1/)
 
     chmod +x download.sh
     bash download.sh
